@@ -1,0 +1,4 @@
+-- tenant-service 初始化脚本
+-- 待建表：
+--   tenant：租户
+--   store：门店，唯一键 (id, tenant_id)

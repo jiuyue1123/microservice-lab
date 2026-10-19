@@ -1,0 +1,2 @@
+com.example.framework.autoconfigure.MybatisPlusAutoConfiguration
+com.example.framework.autoconfigure.WebExceptionAutoConfiguration

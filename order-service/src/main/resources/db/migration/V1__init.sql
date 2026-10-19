@@ -1,0 +1,4 @@
+-- order-service 初始化脚本
+-- 待建表：
+--   biz_order：订单主表
+--   biz_order_item：订单明细快照

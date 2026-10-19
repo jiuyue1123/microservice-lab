@@ -1,0 +1,3 @@
+-- auth-service 初始化脚本
+-- 待建表：
+--   user_identity：登录身份，唯一键 (provider, identifier)
